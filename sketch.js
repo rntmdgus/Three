@@ -12,7 +12,7 @@ function draw() {
 
  stroke(255, 0, 0);
   var size = Math.abs(mouseX - 320);
-  ellipse(320, 240, mouseX, mouseY);
+  ellipse(410, 400, mouseX, mouseY);
 }
 
 function setup() {
